@@ -4,14 +4,14 @@
   "version": "3.5.4",
   "author": {
     "name": "WebTorrent LLC",
-    "email": "feross@webtorrent.io",
-    "url": "https://webtorrent.io"
+    "email": "",
+    "url": "https://shadowninja.in"
   },
   "bin": {
     "webtorrent": "./bin/cmd.js"
   },
   "bugs": {
-    "url": "https://github.com/webtorrent/webtorrent-cli/issues"
+    "url": "https://github.com/shadowninja024/torrent-cli/issues"
   },
   "dependencies": {
     "chalk": "^4.1.1",
@@ -43,7 +43,7 @@
   "engines": {
     "node": ">=12"
   },
-  "homepage": "https://webtorrent.io",
+  "homepage": "https://shadowninja.in",
   "keywords": [
     "bittorrent",
     "bittorrent client",
@@ -65,32 +65,10 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/webtorrent/webtorrent-cli.git"
+    "url": "git://github.com/shadowninja024/torrent-cli.git"
   },
   "scripts": {
     "test": "standard && tape test/*.js",
     "update-authors": "./tools/update-authors.sh"
   },
-  "funding": [
-    {
-      "type": "github",
-      "url": "https://github.com/sponsors/feross"
-    },
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/feross"
-    },
-    {
-      "type": "consulting",
-      "url": "https://feross.org/support"
-    }
-  ],
-  "renovate": {
-    "extends": [
-      "github>webtorrent/renovate-config"
-    ]
-  },
-  "release": {
-    "extends": "@webtorrent/semantic-release-config"
-  }
 }
