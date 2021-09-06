@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://webtorrent.io"><img src="https://ibb.co/Xkwf4LY" alt="Torrent" width="200"></a>
+  <a href="https://webtorrent.io"><img src="https://i.ibb.co/tPdwhKL/IMG-20210906-132219-621-removebg-preview.png" alt="Torrent" width="200"></a>
   <br>
  Torrent CLI
   <br>
