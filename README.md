@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://webtorrent.io"><img src="https://webtorrent.io/img/WebTorrent.png" alt="WebTorrent" width="200"></a>
+  <a href="https://webtorrent.io"><img src="https://webtorrent.io/img/WebTorrent.png" alt="Torrent" width="200"></a>
   <br>
-  WebTorrent CLI
+ Torrent CLI
   <br>
   <br>
 </h1>
