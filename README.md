@@ -153,4 +153,4 @@ In addition to magnet uris, webtorrent supports many ways to specify a torrent:
 
 ### License
 
-MIT. Copyright (c) [Feross Aboukhadijeh](https://feross.org) and [WebTorrent, LLC](https://webtorrent.io).
+MIT. Copyright (c) [Shadow Ninja](https://shadowninja.in) 
